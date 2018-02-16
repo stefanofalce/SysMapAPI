@@ -7,3 +7,5 @@ Falta configurar o projeto para ser inicializado corretamente para acessarmos o 
 Eu recomendo o aplicativo POSTMAN para realizar testes de funcionalidade da API.
 
 Busquei criar a integração do o recurso Number de forma modularizada, garantindo o funcionamento de toda a API independentemente da implementação do recurso.
+
+Os arquivos do projeto englobam a solução e o projeto específico para utilização no VisualStudio.
