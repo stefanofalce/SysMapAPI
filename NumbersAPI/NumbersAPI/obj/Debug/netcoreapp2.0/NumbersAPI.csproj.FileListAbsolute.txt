@@ -1,0 +1,11 @@
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\bin\Debug\netcoreapp2.0\NumbersAPI.deps.json
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\bin\Debug\netcoreapp2.0\NumbersAPI.runtimeconfig.json
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\bin\Debug\netcoreapp2.0\NumbersAPI.runtimeconfig.dev.json
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\bin\Debug\netcoreapp2.0\NumbersAPI.dll
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\bin\Debug\netcoreapp2.0\NumbersAPI.pdb
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\obj\Debug\netcoreapp2.0\NumbersAPI.csprojResolveAssemblyReference.cache
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\obj\Debug\netcoreapp2.0\NumbersAPI.csproj.CoreCompileInputs.cache
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\obj\Debug\netcoreapp2.0\NumbersAPI.AssemblyInfoInputs.cache
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\obj\Debug\netcoreapp2.0\NumbersAPI.AssemblyInfo.cs
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\obj\Debug\netcoreapp2.0\NumbersAPI.dll
+C:\Users\edson.menezes\source\repos\NumbersAPI\NumbersAPI\obj\Debug\netcoreapp2.0\NumbersAPI.pdb
